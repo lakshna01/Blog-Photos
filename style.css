@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bolder;
+}
+div{
+    margin-top: 15px;
+}
+p{
+    color: brown;
+    font-family: inherit;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: azure;
+}
